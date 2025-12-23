@@ -25,7 +25,6 @@
 
 ### 📊 GitHub Stats / 統計
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tubexchat&show_icons=true&theme=tokyonight&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubexchat&layout=compact&theme=tokyonight" />
 </p>
 
