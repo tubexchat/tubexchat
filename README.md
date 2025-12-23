@@ -25,13 +25,13 @@
 
 ### 📊 GitHub Stats / 統計
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jianghohshhh-byte&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianghohshhh-byte&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tubexchat&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tubexchat&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Contact / 連絡先
-- **Twitter/X**: [@YourHandle]
-- **Email**: [jianghohshhh@gmail.com
+- **Twitter/X**: [@no]
+- **Email**: [lewis.q.zhang@gmail.com
 ]
